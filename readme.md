@@ -1,51 +1,25 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+# Laravel-Forum
+本项目是一个由Laravel5.4搭建的论坛，使用TDD的方式来构建论坛，即先写测试，再写功能。
+主要的参考资料为 [Laracast中Jeffery way的视频教程](https://laracasts.com/series/lets-build-a-forum-with-laravel) 以及 [Laravel手册](https://laravel.com/docs/5.4) 和 [Laravel API](http://devdocs.io/laravel~5.4/)
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+# 搭建笔记
+这部分笔记包括学习过程和对整个框架的不断改进的记录。
 
-## About Laravel
+## [功能框架分析](https://github.com/Gijera/Laravel-Forum/tree/master/论坛搭建笔记/论坛总图分析)
+* [测试](https://github.com/Gijera/Laravel-Forum/blob/master/论坛搭建笔记/论坛总图分析/测试.md)
+* [路由](https://github.com/Gijera/Laravel-Forum/blob/master/论坛搭建笔记/论坛总图分析/路由.md)
+* [数据](https://github.com/Gijera/Laravel-Forum/blob/master/论坛搭建笔记/论坛总图分析/数据.md)
+* [模型](https://github.com/Gijera/Laravel-Forum/blob/master/论坛搭建笔记/论坛总图分析/模型.md)
+* [控制器](https://github.com/Gijera/Laravel-Forum/blob/master/论坛搭建笔记/论坛总图分析/控制器.md)
+* [视图](https://github.com/Gijera/Laravel-Forum/blob/master/论坛搭建笔记/论坛总图分析/视图.md)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
+注意：笔记中前面的数字表示该测试创建的顺序
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb combination of simplicity, elegance, and innovation give you tools you need to build any application with which you are tasked.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough documentation and video tutorial library of any modern web application framework. The [Laravel documentation](https://laravel.com/docs) is thorough, complete, and makes it a breeze to get started learning the framework.
-
-If you're not in the mood to read, [Laracasts](https://laracasts.com) contains over 900 video tutorials on a range of topics including Laravel, modern PHP, unit testing, JavaScript, and more. Boost the skill level of yourself and your entire team by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for helping fund on-going Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](http://patreon.com/taylorotwell):
-
-- **[Vehikl](http://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[British Software Development](https://www.britishsoftware.co)**
-- **[Styde](https://styde.net)**
-- [Fragrantica](https://www.fragrantica.com)
-- [SOFTonSOFA](https://softonsofa.com/)
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+## [过程记录笔记](https://github.com/Gijera/Laravel-Forum/tree/master/论坛搭建笔记/搭建过程笔记)
+* [01-使用Seeding填充数据库](https://github.com/Gijera/Laravel-Forum/blob/master/论坛搭建笔记/搭建过程笔记/01-使用Seeding填充数据库.md)
+* [02-编写Threads测试驱动](https://github.com/Gijera/Laravel-Forum/blob/master/论坛搭建笔记/搭建过程笔记/02-编写Threads测试驱动.md)
+* [03-话题的回复](https://github.com/Gijera/Laravel-Forum/blob/master/论坛搭建笔记/搭建过程笔记/03-话题的回复.md)
+* [04-用户可以在话题中评论](https://github.com/Gijera/Laravel-Forum/blob/master/论坛搭建笔记/搭建过程笔记/04-用户可以在话题中评论.md)
+* [05-Reply表单](https://github.com/Gijera/Laravel-Forum/blob/master/论坛搭建笔记/搭建过程笔记/05-Reply表单.md)
+* [06-用户可以添加话题](https://github.com/Gijera/Laravel-Forum/blob/master/论坛搭建笔记/搭建过程笔记/06-用户可以添加话题.md)
+* [07-添加一些帮助测试](https://github.com/Gijera/Laravel-Forum/blob/master/论坛搭建笔记/搭建过程笔记/07-添加一些帮助测试.md)
