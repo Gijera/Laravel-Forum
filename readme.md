@@ -23,3 +23,6 @@
 * [05-Reply表单](https://github.com/Gijera/Laravel-Forum/blob/master/论坛搭建笔记/搭建过程笔记/05-Reply表单.md)
 * [06-用户可以添加话题](https://github.com/Gijera/Laravel-Forum/blob/master/论坛搭建笔记/搭建过程笔记/06-用户可以添加话题.md)
 * [07-添加一些帮助测试](https://github.com/Gijera/Laravel-Forum/blob/master/论坛搭建笔记/搭建过程笔记/07-添加一些帮助测试.md)
+* [08-异常处理难题](https://github.com/Gijera/Laravel-Forum/blob/master/论坛搭建笔记/搭建过程笔记/08-异常处理难题)
+* [09-一个话题应该被分配给一个频道](https://github.com/Gijera/Laravel-Forum/blob/master/论坛搭建笔记/搭建过程笔记/09-一个话题应该被分配给一个频道)
+* [10-如何测试表单的验证错误](https://github.com/Gijera/Laravel-Forum/blob/master/论坛搭建笔记/搭建过程笔记/10-如何测试表单的验证错误)
