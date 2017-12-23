@@ -30,3 +30,4 @@
 * [12-验证错误和遗留数据](https://github.com/Gijera/Laravel-Forum/blob/master/论坛搭建笔记/搭建过程笔记/12-验证错误和遗留数据.md)
 * [13-提取到视图组件](https://github.com/Gijera/Laravel-Forum/blob/master/论坛搭建笔记/搭建过程笔记/13-提取到视图组件.md)
 * [14-用户可以通过用户名来筛选话题](https://github.com/Gijera/Laravel-Forum/blob/master/论坛搭建笔记/搭建过程笔记/14-用户可以通过用户名来筛选话题.md)
+* [15-重构一下代码](https://github.com/Gijera/Laravel-Forum/blob/master/论坛搭建笔记/搭建过程笔记/15-重构一下代码.md)
