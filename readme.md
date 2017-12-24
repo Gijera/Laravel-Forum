@@ -1,6 +1,6 @@
 # Laravel-Forum
 本项目是一个由Laravel5.4搭建的论坛，使用TDD的方式来构建论坛，即先写测试，再写功能。
-主要的参考资料为 [Laracast中Jeffery way的视频教程](https://laracasts.com/series/lets-build-a-forum-with-laravel) 以及 [Laravel手册](https://laravel.com/docs/5.4) 和 [Laravel API](http://devdocs.io/laravel~5.4/)
+主要的参考资料为 [Laracast中Jeffery way的视频教程](https://laracasts.com/series/lets-build-a-forum-with-laravel) 以及 [Laravel手册](https://laravel.com/docs/5.4) 和 [Laravel API](http://devdocs.io/laravel~5.4/)，当然还有[php](http://php.net)。
 
 # 搭建笔记
 这部分笔记包括学习过程和对整个框架的不断改进的记录。
@@ -31,3 +31,4 @@
 * [13-提取到视图组件](https://github.com/Gijera/Laravel-Forum/blob/master/论坛搭建笔记/搭建过程笔记/13-提取到视图组件.md)
 * [14-用户可以通过用户名来筛选话题](https://github.com/Gijera/Laravel-Forum/blob/master/论坛搭建笔记/搭建过程笔记/14-用户可以通过用户名来筛选话题.md)
 * [15-重构一下代码](https://github.com/Gijera/Laravel-Forum/blob/master/论坛搭建笔记/搭建过程笔记/15-重构一下代码.md)
+* [16-元信息和分页](https://github.com/Gijera/Laravel-Forum/blob/master/论坛搭建笔记/搭建过程笔记/16-元信息和分页.md)
