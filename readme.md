@@ -34,3 +34,4 @@
 * [16-元信息和分页](https://github.com/Gijera/Laravel-Forum/blob/master/论坛搭建笔记/搭建过程笔记/16-元信息和分页.md)
 * [17-用户可以通过Popularity筛选话题](https://github.com/Gijera/Laravel-Forum/blob/master/论坛搭建笔记/搭建过程笔记/17-用户可以通过Popularity筛选话题.md)
 * [18-用户可以为喜欢的评论点赞](https://github.com/Gijera/Laravel-Forum/blob/master/论坛搭建笔记/搭建过程笔记/18-用户可以为喜欢的评论点赞.md)
+* [19-添加喜欢按钮](https://github.com/Gijera/Laravel-Forum/blob/master/论坛搭建笔记/搭建过程笔记/19-添加喜欢按钮.md)
