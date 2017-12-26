@@ -32,3 +32,5 @@
 * [14-用户可以通过用户名来筛选话题](https://github.com/Gijera/Laravel-Forum/blob/master/论坛搭建笔记/搭建过程笔记/14-用户可以通过用户名来筛选话题.md)
 * [15-重构一下代码](https://github.com/Gijera/Laravel-Forum/blob/master/论坛搭建笔记/搭建过程笔记/15-重构一下代码.md)
 * [16-元信息和分页](https://github.com/Gijera/Laravel-Forum/blob/master/论坛搭建笔记/搭建过程笔记/16-元信息和分页.md)
+* [17-用户可以通过Popularity筛选话题](https://github.com/Gijera/Laravel-Forum/blob/master/论坛搭建笔记/搭建过程笔记/17-用户可以通过Popularity筛选话题.md)
+* [18-用户可以为喜欢的评论点赞](https://github.com/Gijera/Laravel-Forum/blob/master/论坛搭建笔记/搭建过程笔记/18-用户可以为喜欢的评论点赞.md)
