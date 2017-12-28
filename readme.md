@@ -35,3 +35,4 @@
 * [17-用户可以通过Popularity筛选话题](https://github.com/Gijera/Laravel-Forum/blob/master/论坛搭建笔记/搭建过程笔记/17-用户可以通过Popularity筛选话题.md)
 * [18-用户可以为喜欢的评论点赞](https://github.com/Gijera/Laravel-Forum/blob/master/论坛搭建笔记/搭建过程笔记/18-用户可以为喜欢的评论点赞.md)
 * [19-添加喜欢按钮](https://github.com/Gijera/Laravel-Forum/blob/master/论坛搭建笔记/搭建过程笔记/19-添加喜欢按钮.md)
+* [20-减少Query请求次数](https://github.com/Gijera/Laravel-Forum/blob/master/论坛搭建笔记/搭建过程笔记/20-减少Query请求次数.md)
