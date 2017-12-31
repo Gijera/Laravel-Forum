@@ -23,6 +23,7 @@ Route::get('/threads', 'ThreadsController@index');
 Route::post('/threads', 'ThreadsController@store');
 Route::get('/threads/create', 'ThreadsController@create');
 Route::get('/threads/{channel}/{thread}', 'ThreadsController@show');
+Route::delete('/threads/{channel}/{thread}', 'ThreadsController@destroy');
 
 Route::get('/threads/{channel}', 'ThreadsController@index');
 
