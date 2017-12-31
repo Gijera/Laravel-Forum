@@ -30,6 +30,10 @@
 * (24)guests_can_not_favorite_anything
 * (25)an_authenticated_user_may_only_favorite_a_reply_once
 
+### ProfilesTest.php
+* (26)a_user_has_a_profile
+* (27)profiles_display_all_threads_created_by_the_associated_use
+
 ## Unit测试
 ### ThreadTest
 * (5)a_thread_has_replies
