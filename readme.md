@@ -24,8 +24,8 @@
 * (15)publishThread
 * (16)a_thread_requires_a_body
 * (17)a_thread_requires_a_valid_channel
-* (28)a_thread_can_be_deleted
-* (29)guest_cannot_delete_threads
+* (28)authorized_users_can_delete_threads
+* (29)unauthorized_users_may_not_delete_threads
 
 ### FavoritasTest.php
 * (23)an_authenticated_user_can_favorite_any_reply
