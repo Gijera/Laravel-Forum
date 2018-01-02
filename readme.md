@@ -49,3 +49,7 @@
 
 ### ChannelTest
 * (20)a_channel_consists_of_threads
+
+### ActivityTest
+* (30)it_records_activity_when_a_thread_is_created
+* (31)it_records_activity_when_a_reply_is_created
