@@ -10,6 +10,8 @@
 * (18)a_reply_requires_a_body
 * (33)unauthorized_users_cannot_delete_replies
 * (34)authorized_users_can_delete_replies
+* (35)authorized_users_can_update_replies
+* (36)unauthorized_users_cannot_update_replies
 
 ### ReadThreadsTest.php
 * (1)a_user_can_view_all_threads
