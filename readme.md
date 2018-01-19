@@ -35,6 +35,7 @@
 * (23)an_authenticated_user_can_favorite_any_reply
 * (24)guests_can_not_favorite_anything
 * (25)an_authenticated_user_may_only_favorite_a_reply_once
+* (37)an_authenticated_user_can_unfavorite_a_reply
 
 ### ProfilesTest.php
 * (26)a_user_has_a_profile
