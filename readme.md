@@ -8,6 +8,8 @@
 * (7)an_authenticated_user_may_participate_in_forum_threads
 * (9)unauthenticated_users_may_not_add_replies
 * (18)a_reply_requires_a_body
+* (33)unauthorized_users_cannot_delete_replies
+* (34)authorized_users_can_delete_replies
 
 ### ReadThreadsTest.php
 * (1)a_user_can_view_all_threads
